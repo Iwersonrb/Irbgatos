@@ -7,8 +7,8 @@
 }
 
 body {
-    background-color: #cbed08;
-    color: #798252;
+    background-color:rgb(41, 164, 8);
+    color: #526f82;
     font-family: "Cabin", sans-serif;
     font-weight: 400;
     text-align: center;
@@ -27,7 +27,7 @@ h1 {
 }
 
 header {
-    background-color: #cbed08;
+    background-color: #190dc6;
     padding: 1rem 2rem;
     display: flex;
     justify-content: center;
